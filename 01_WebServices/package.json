@@ -1,0 +1,21 @@
+{
+  "name": "bsc-ws",
+  "version": "1.0.0",
+  "description": "Bosch Sports Club Web Service",
+  "main": "bsc-ws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "2.2.1",
+    "typings": "2.1.0",
+    "@types/hapi": "16.0.0",
+    "@types/sequelize": "4.0.46"
+  },
+  "dependencies": {
+    "hapi": "16.1.0",
+    "sequelize": "3.30.2"
+  },
+  "author": "ETA3",
+  "license": "ISC"
+}
